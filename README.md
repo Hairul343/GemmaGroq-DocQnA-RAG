@@ -1,6 +1,7 @@
 # End-to-End Document Q&A RAG App
 
 This repository contains an end-to-end application for document-based Question & Answering (Q&A) using Retrieval-Augmented Generation (RAG) with Gemma and Groq APIs.
+
 ![image](https://github.com/Hairul343/GemmaGroq-DocQnA-RAG/assets/140678940/0044239a-b157-4b45-b654-b999d2cb6c4e)
 
 
