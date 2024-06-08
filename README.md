@@ -20,5 +20,3 @@ The application allows users to ask questions about specific documents. It retri
 - **Groq API Integration**: Generate answers from the provided context.
 - **Modular Code Structure**: Easy to extend and maintain.
 - **Unit Tests**: Ensuring code reliability and correctness.
-
-## Getting Started
